@@ -1,6 +1,7 @@
 <h4> Hey there!</h4>
 
-I'm [Miftahul Arifin](https://arifintahu.github.io), an experienced full stack web developer working in the information technology system.
+I'm Miftahul Arifin, an experienced full stack web developer and data enthusiast.
+Check out my portofolio [here](https://arifintahu.github.io) or linkedin [here](https://www.linkedin.com/in/miftahul-arifin/) or [my blog](https://www.arifintahu.com/).
 
  ---
  

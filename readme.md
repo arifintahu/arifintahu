@@ -1,15 +1,9 @@
-<h4> Hey there!</h4>
+### Hey there!
 
-I'm Miftahul Arifin, an experienced full stack web developer and data enthusiast. <br>
-Check out my portofolio [here](https://arifintahu.github.io) or linkedin [here](https://www.linkedin.com/in/miftahul-arifin/) or [my blog](https://www.arifintahu.com/).
+<div>I'm Arifin from Indonesia. Any ideas or suggestions? just leave me a message <a href="mailto:miftahul97@gmail.com">here</a></div>
 
  ---
- 
-**Github Stats:**
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=arifintahu&count_private=true&show_icons=true&theme=dracula&line_height=32&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifintahu&theme=dracula&layout=compact">
-
-</p>
+<div align = 'center'>
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arifintahu&langs_count=8" alt = "Top Langs">
+ <img src = "https://metrics.lecoq.io/arifintahu?template=classic&config.timezone=Asia%2FJakarta" alt = "Metrics">
+</div>

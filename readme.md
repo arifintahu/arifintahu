@@ -1,22 +1,22 @@
 <div align="center">
-  
+
 # Hey there! I'm Arifin 👋
 
-**Full-Stack Software Engineer | Blockchain Developer | Open Source Contributor**
+**Full-Stack Software Engineer | Blockchain Developer**
+
+Building backend systems and blockchain infrastructure across Cosmos, EVM, and Solana ecosystems.
 
 </div>
 
-
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Software Engineer** specializing in **Backend and Blockchain Development** with deep expertise in **Cosmos SDK**, **EVM**, and **Solana** ecosystems.
+Full-Stack Software Engineer with **6+ years** of experience building **backend systems** and **blockchain infrastructure**. I specialize in **Cosmos SDK**, **EVM**, and **Solana** — from validator tooling to smart contract security.
 
 ```typescript
 const arifin = {
     location: "Indonesia 🇮🇩",
-    focus: ["Blockchain", "Backend", "Smart Contracts"],
-    currentlyBuilding: "Decentralized Infrastructure & Cross-chain Solutions",
-    funFact: "I love exploring the intersection of cryptography and distributed systems"
+    focus: ["Blockchain Infrastructure", "Backend Systems", "Smart Contract Security"],
+    currentlyBuilding: "Cross-chain & DeFi protocol"
 };
 ```
 
@@ -24,33 +24,27 @@ const arifin = {
 
 <div align="center">
 
-### Languages
+### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Blockchain & Web3
 ![Cosmos SDK](https://img.shields.io/badge/Cosmos_SDK-2E3148?style=for-the-badge&logo=cosmos&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![Foundry](https://img.shields.io/badge/Foundry-3C3C3D?style=for-the-badge&logo=foundry&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-3C3C3D?style=for-the-badge&logo=foundry&logoColor=white)
 ![Anchor](https://img.shields.io/badge/Anchor-7C3AED?style=for-the-badge&logo=anchor&logoColor=white)
 
-### Frontend & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Infrastructure & Tools
+### Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 </div>
@@ -58,12 +52,12 @@ const arifin = {
 
 ## ⭐ Featured Projects
 
-- 📊 **[Vault Strategy](https://github.com/arifintahu/vault-strategy)** - Automated, EMA-based leverage management for Bitcoin. Self-custody vaults with risk tiers and transparent rules.
-- 🔭 **[Dexplorer](https://github.com/arifintahu/dexplorer)** - Disposable, lightweight blockchain explorer for Cosmos-based chains with real-time dashboard and validator insights.
-- 🎰 **[AAPM](https://github.com/arifintahu/aapm)** - Account Abstraction for Prediction Markets. Simplifies Web3 betting with social login and gasless transactions.
-- 📁 **[Project Structure API](https://github.com/arifintahu/project-structure-api)** - Complete project template for building RESTful APIs with TypeScript. ⭐ 138 stars
-- 🚀 **[Go REST API](https://github.com/arifintahu/go-rest-api)** - Template Golang REST API with clean architecture.
-- ⚡ **[Moleculer Express](https://github.com/arifintahu/moleculer-express)** - Template service using Moleculer microservices framework with Express.
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [**Project Structure API**](https://github.com/arifintahu/project-structure-api) | Production-ready TypeScript REST API template — adopted by 138+ developers and 21 forks | ![Stars](https://img.shields.io/github/stars/arifintahu/project-structure-api?style=flat-square) |
+| [**Dexplorer**](https://github.com/arifintahu/dexplorer) | Lightweight Cosmos chain explorer with real-time validator dashboard. Used for quick chain debugging without spinning up full infra | ![Stars](https://img.shields.io/github/stars/arifintahu/dexplorer?style=flat-square) |
+| [**Vault Strategy**](https://github.com/arifintahu/vault-strategy) | Automated EMA-based leverage vaults for Bitcoin — self-custody with configurable risk tiers | ![Stars](https://img.shields.io/github/stars/arifintahu/vault-strategy?style=flat-square) |
+| [**AAPM**](https://github.com/arifintahu/aapm) | Account Abstraction for Prediction Markets — social login + gasless transactions on EVM | ![Stars](https://img.shields.io/github/stars/arifintahu/aapm?style=flat-square) |
 
 
 ## 📝 Latest Blog Posts
@@ -77,7 +71,7 @@ const arifin = {
 ➡️ [More blog posts...](https://arifintahu.com/blog)
 
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -103,7 +97,6 @@ I'm always open to discussing blockchain development, distributed systems, or co
 
 ---
 
-
-*⭐ From [arifintahu](https://arifintahu.com) with ❤️*
+*From [arifintahu](https://arifintahu.com)*
 
 </div>

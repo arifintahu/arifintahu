@@ -84,7 +84,7 @@ const arifin = {
 
 ---
 
-### 💬 Let's Connect
+### 💬 Let's Connect!
 
 I'm always open to discussing blockchain development, distributed systems, or collaboration opportunities.
 

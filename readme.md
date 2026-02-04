@@ -6,24 +6,19 @@
 
 Building backend systems and blockchain infrastructure across Cosmos, EVM, and Solana ecosystems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=arifintahu&color=blueviolet&style=flat-square)
-
 </div>
 
 ## 🚀 About Me
 
-Full-Stack Software Engineer with **5+ years** of experience building **backend systems** and **blockchain infrastructure**. I specialize in **Cosmos SDK**, **EVM**, and **Solana** — from validator tooling to smart contract security.
+Full-Stack Software Engineer with **6+ years** of experience building **backend systems** and **blockchain infrastructure**. I specialize in **Cosmos SDK**, **EVM**, and **Solana** — from validator tooling to smart contract security.
 
 ```typescript
 const arifin = {
     location: "Indonesia 🇮🇩",
     focus: ["Blockchain Infrastructure", "Backend Systems", "Smart Contract Security"],
-    currentlyBuilding: "Cross-chain vault strategies & on-chain prediction markets",
-    funFact: "I once debugged a consensus bug by reading raw Tendermint block bytes at 2 AM"
+    currentlyBuilding: "Cross-chain & DeFi protocol"
 };
 ```
-
-> **Currently working on:** Automated EMA-based leverage vaults and account-abstracted prediction markets on EVM.
 
 ## 🛠️ Tech Stack
 
@@ -80,11 +75,6 @@ const arifin = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arifintahu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifintahu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arifintahu&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 ![GitHub Contribution Graph](https://ghchart.rshah.org/arifintahu)
 
 </div>
@@ -94,12 +84,9 @@ const arifin = {
 
 ---
 
-### 💬 Let's Build Something
+### 💬 Let's Connect
 
-I'm looking for collaborators on **cross-chain tooling**, **DeFi infrastructure**, and **developer experience** projects.
-If you're working on Cosmos, EVM, or Solana — let's talk.
-
-**Open to:** remote roles, contract work, and open source collaboration.
+I'm always open to discussing blockchain development, distributed systems, or collaboration opportunities.
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/arifintahu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miftahul-arifin/)

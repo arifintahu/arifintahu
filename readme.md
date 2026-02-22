@@ -57,7 +57,9 @@ const arifin = {
 | [**Project Structure API**](https://github.com/arifintahu/project-structure-api) | Production-ready TypeScript REST API template — adopted by 138+ developers and 21 forks | ![Stars](https://img.shields.io/github/stars/arifintahu/project-structure-api?style=flat-square) |
 | [**Dexplorer**](https://github.com/arifintahu/dexplorer) | Lightweight Cosmos chain explorer with real-time validator dashboard. Used for quick chain debugging without spinning up full infra | ![Stars](https://img.shields.io/github/stars/arifintahu/dexplorer?style=flat-square) |
 | [**Vault Strategy**](https://github.com/arifintahu/vault-strategy) | Automated EMA-based leverage vaults for Bitcoin — self-custody with configurable risk tiers | ![Stars](https://img.shields.io/github/stars/arifintahu/vault-strategy?style=flat-square) |
-| [**AAPM**](https://github.com/arifintahu/aapm) | Account Abstraction for Prediction Markets — social login + gasless transactions on EVM | ![Stars](https://img.shields.io/github/stars/arifintahu/aapm?style=flat-square) |
+| [**QuickLend**](https://github.com/arifintahu/quicklend) | A Decentralized, Non-Custodial Lending Protocol — pooled liquidity and algorithmic interest rates | ![Stars](https://img.shields.io/github/stars/arifintahu/quicklend?style=flat-square) |
+| [**PR-Please**](https://github.com/arifintahu/pr-please) | Chrome Extension for generating structured GitHub Pull Request titles and descriptions instantly using AI | ![Stars](https://img.shields.io/github/stars/arifintahu/pr-please?style=flat-square) |
+| [**Earn Aggregator**](https://github.com/arifintahu/earn-aggregator) | High-performance API aggregating flexible earn product APYs from major crypto exchanges | ![Stars](https://img.shields.io/github/stars/arifintahu/earn-aggregator?style=flat-square) |
 
 
 ## 📝 Latest Blog Posts

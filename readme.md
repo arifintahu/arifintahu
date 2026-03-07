@@ -54,7 +54,6 @@ const arifin = {
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-
 | [**Project Structure API**](https://github.com/arifintahu/project-structure-api) | Production-ready TypeScript REST API template — adopted by 138+ developers and 21 forks | ![Stars](https://img.shields.io/github/stars/arifintahu/project-structure-api?style=flat-square) |
 | [**Dexplorer**](https://github.com/arifintahu/dexplorer) | Lightweight Cosmos chain explorer with real-time validator dashboard. Used for quick chain debugging without spinning up full infra | ![Stars](https://img.shields.io/github/stars/arifintahu/dexplorer?style=flat-square) |
 | [**Vault Strategy**](https://github.com/arifintahu/vault-strategy) | Automated EMA-based leverage vaults for Bitcoin — self-custody with configurable risk tiers | ![Stars](https://img.shields.io/github/stars/arifintahu/vault-strategy?style=flat-square) |

@@ -34,12 +34,12 @@ Backend and blockchain engineer based in Indonesia. Six years building distribut
 `~/arifin $ ls writing/`
 
 <!-- BLOG-POST-LIST:START -->
-- [How Reentrancy Exploits Drain Smart Contracts](https://arifintahu.com/blog/how-reentrancy-exploits-drain-smart-contract)
-- [The Odyssey of Consensus: From Byzantine](https://arifintahu.com/blog/the-odyssey-of-consensus-from-byzantine)
-- [How Merkle Trees Secure Blockchain](https://arifintahu.com/blog/how-merkle-trees-secure-blockchain)
+- [How ERC-4337 actually works: bundler, paymaster, entrypoint](https://arifintahu.com/writing/how-erc-4337-actually-works)
+- [Context Rot: Why Giving AI Too Much Info Can Ruin the Results](https://arifintahu.com/writing/context-rot-llms)
+- [How Reentrancy Exploits Drain Smart Contracts](https://arifintahu.com/writing/how-reentrancy-exploits-drain-smart-contract)
 <!-- BLOG-POST-LIST:END -->
 
-[More posts...](https://arifintahu.com/blog)
+[More posts...](https://arifintahu.com/writing)
 
 ---
 

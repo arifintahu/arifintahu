@@ -4,7 +4,7 @@
 
 # Miftahul Arifin
 
-**Backend and blockchain engineer.** Six years across Cosmos SDK chains, EVM contracts, and Go backends.
+**Backend and blockchain engineer** across Cosmos SDK chains, EVM contracts, and Go backends.
 
 </div>
 
@@ -21,7 +21,7 @@ Backend and blockchain engineer based in Indonesia. Six years building distribut
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [**Project Structure API**](https://github.com/arifintahu/project-structure-api) | TypeScript REST API template — adopted by 138+ developers and 21 forks | ![Stars](https://img.shields.io/github/stars/arifintahu/project-structure-api?style=flat-square) |
-| [**Dexplorer**](https://github.com/arifintahu/dexplorer) | Lightweight Cosmos chain explorer with real-time validator dashboard. Used for quick chain debugging without spinning up full infra | ![Stars](https://img.shields.io/github/stars/arifintahu/dexplorer?style=flat-square) |
+| [**Dexplorer**](https://github.com/arifintahu/dexplorer) | Cosmos chain explorer with real-time validator dashboard — quick chain debugging without standing up full infra | ![Stars](https://img.shields.io/github/stars/arifintahu/dexplorer?style=flat-square) |
 | [**Vault Strategy**](https://github.com/arifintahu/vault-strategy) | Automated EMA-based leverage vaults for Bitcoin — self-custody with configurable risk tiers | ![Stars](https://img.shields.io/github/stars/arifintahu/vault-strategy?style=flat-square) |
 | [**QuickLend**](https://github.com/arifintahu/quicklend) | Decentralized non-custodial lending protocol — pooled liquidity and algorithmic interest rates | ![Stars](https://img.shields.io/github/stars/arifintahu/quicklend?style=flat-square) |
 | [**PR-Please**](https://github.com/arifintahu/pr-please) | Chrome extension that generates structured GitHub PR titles and descriptions using AI | ![Stars](https://img.shields.io/github/stars/arifintahu/pr-please?style=flat-square) |
@@ -43,7 +43,7 @@ Backend and blockchain engineer based in Indonesia. Six years building distribut
 
 ---
 
-`~/arifin $ git graph`
+`~/arifin $ git log --graph`
 
 <div align="center">
 
@@ -53,9 +53,9 @@ Backend and blockchain engineer based in Indonesia. Six years building distribut
 
 ---
 
-<div align="center">
-
 `~/arifin $ cat contact.md`
+
+<div align="center">
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/arifintahu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miftahul-arifin/)

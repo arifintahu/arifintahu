@@ -12,7 +12,7 @@
 
 `~/arifin $ cat about.md`
 
-I build distributed systems that are correct, maintainable, and understandable. When I'm not writing code, I'm writing about how it works. Currently focused on cross-chain infrastructure and DeFi protocols.
+Backend and blockchain engineer based in Indonesia. Six years building distributed systems — Cosmos SDK chains, EVM smart contracts, Go backends, serverless APIs. Currently working as backend engineer at S16 Research Ventures. When I'm not writing code, I'm writing about how it works.
 
 ---
 
@@ -20,13 +20,13 @@ I build distributed systems that are correct, maintainable, and understandable. 
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [**Project Structure API**](https://github.com/arifintahu/project-structure-api) | Production-ready TypeScript REST API template — adopted by 138+ developers and 21 forks | ![Stars](https://img.shields.io/github/stars/arifintahu/project-structure-api?style=flat-square) |
+| [**Project Structure API**](https://github.com/arifintahu/project-structure-api) | TypeScript REST API template — adopted by 138+ developers and 21 forks | ![Stars](https://img.shields.io/github/stars/arifintahu/project-structure-api?style=flat-square) |
 | [**Dexplorer**](https://github.com/arifintahu/dexplorer) | Lightweight Cosmos chain explorer with real-time validator dashboard. Used for quick chain debugging without spinning up full infra | ![Stars](https://img.shields.io/github/stars/arifintahu/dexplorer?style=flat-square) |
 | [**Vault Strategy**](https://github.com/arifintahu/vault-strategy) | Automated EMA-based leverage vaults for Bitcoin — self-custody with configurable risk tiers | ![Stars](https://img.shields.io/github/stars/arifintahu/vault-strategy?style=flat-square) |
 | [**QuickLend**](https://github.com/arifintahu/quicklend) | Decentralized non-custodial lending protocol — pooled liquidity and algorithmic interest rates | ![Stars](https://img.shields.io/github/stars/arifintahu/quicklend?style=flat-square) |
 | [**PR-Please**](https://github.com/arifintahu/pr-please) | Chrome extension that generates structured GitHub PR titles and descriptions using AI | ![Stars](https://img.shields.io/github/stars/arifintahu/pr-please?style=flat-square) |
-| [**Earn Aggregator**](https://github.com/arifintahu/earn-aggregator) | High-performance API aggregating flexible earn product APYs from major crypto exchanges | ![Stars](https://img.shields.io/github/stars/arifintahu/earn-aggregator?style=flat-square) |
-| [**Astral**](https://github.com/arifintahu/astral) | Ultra-lightweight server monitoring dashboard — single binary with built-in alerting | ![Stars](https://img.shields.io/github/stars/arifintahu/astral?style=flat-square) |
+| [**Earn Aggregator**](https://github.com/arifintahu/earn-aggregator) | API aggregating earn product APYs from major crypto exchanges | ![Stars](https://img.shields.io/github/stars/arifintahu/earn-aggregator?style=flat-square) |
+| [**Astral**](https://github.com/arifintahu/astral) | Server monitoring dashboard — single binary with built-in alerting | ![Stars](https://img.shields.io/github/stars/arifintahu/astral?style=flat-square) |
 | [**Xylem**](https://github.com/arifintahu/xylem) | Stateless EVM blockchain explorer — zero backend required, connects directly to RPC nodes | ![Stars](https://img.shields.io/github/stars/arifintahu/xylem?style=flat-square) |
 
 ---
@@ -39,11 +39,11 @@ I build distributed systems that are correct, maintainable, and understandable. 
 - [How Merkle Trees Secure Blockchain](https://arifintahu.com/blog/how-merkle-trees-secure-blockchain)
 <!-- BLOG-POST-LIST:END -->
 
-[More...](https://arifintahu.com/blog)
+[More posts...](https://arifintahu.com/blog)
 
 ---
 
-`~/arifin $ git log --oneline`
+`~/arifin $ git graph`
 
 <div align="center">
 
@@ -55,7 +55,7 @@ I build distributed systems that are correct, maintainable, and understandable. 
 
 <div align="center">
 
-`~/arifin $ contact`
+`~/arifin $ cat contact.md`
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/arifintahu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miftahul-arifin/)

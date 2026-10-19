@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-label="Miftahul Arifin. Backend engineer building payment systems, APIs and developer tools.">
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="20%" r="55%">
+      <stop offset="0" stop-color="#C2410C" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#C2410C" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#FF8A5B" opacity="0.18"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="400" rx="20" fill="#121614"/>
+  <rect width="1200" height="400" rx="20" fill="url(#dots)"/>
+  <rect width="1200" height="400" rx="20" fill="url(#glow)"/>
+
+  <!-- mark -->
+  <rect x="64" y="56" width="44" height="44" rx="11" fill="#EDEFEC"/>
+  <g transform="translate(74 66) scale(1)" fill="none" stroke="#121614" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M5 7l5 5-5 5"/>
+    <path d="M13 17h6"/>
+  </g>
+  <text x="124" y="86" fill="#EDEFEC" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700">Miftahul Arifin</text>
+
+  <!-- status -->
+  <circle cx="69" cy="151" r="5" fill="#C2410C"/>
+  <text x="84" y="156" fill="#B9C0BB" font-family="ui-monospace, 'Cascadia Mono', Consolas, monospace" font-size="16">Currently at S16 Research Ventures · 6+ years · East Java, Indonesia</text>
+
+  <!-- headline -->
+  <text font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="-1.5">
+    <tspan x="62" y="236" fill="#FF8A5B">Backend engineer</tspan><tspan dx="15" fill="#EDEFEC">building payment</tspan>
+    <tspan x="62" y="304" fill="#EDEFEC">systems, APIs and developer tools.</tspan>
+  </text>
+
+  <text x="64" y="356" fill="#8E9691" font-family="ui-monospace, 'Cascadia Mono', Consolas, monospace" font-size="15">arifintahu.com</text>
+</svg>
